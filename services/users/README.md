@@ -1,7 +1,3 @@
-# All TrelloClone Services
+# Users Service
 
-# Available Services
-- Users
-- Tasks
-- Notifications
-- History
+This service handles user-related operations including authentication, authorization, and user management.
